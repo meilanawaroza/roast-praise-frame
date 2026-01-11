@@ -2,7 +2,6 @@
   "name": "roast-praise-frame",
   "version": "1.0.0",
   "main": "api/frame.js",
-  "scripts": {},
   "dependencies": {
     "@vercel/og": "^0.6.2"
   }
